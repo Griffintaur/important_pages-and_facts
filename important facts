@@ -1,0 +1,4 @@
+**************important things to know******************************
+1. we should never use regex to parse html as html is chomsky typ2 grammar while regular expressin being  regular language in type 3 grammar.
+    html is context free languages
+2.utf does not always need 2 bits to store characters.to know more about it read the link specified in 'readme'
