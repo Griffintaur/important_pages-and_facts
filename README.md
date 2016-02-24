@@ -17,3 +17,5 @@ https://www.youtube.com/watch?v=w26x-z-BdWQ
 *[4]stanfordneural network course
 http://cs231n.github.io/
 https://www.kaggle.com/russwill/digit-recognizer/build-your-own-neural-network-in-r/notebook
+https://www.kaggle.com/shilparai/digit-recognizer/96-accuracy-with-nearest-neighbour
+https://www.kaggle.com/kobakhit/digit-recognizer/digit-recognizer-in-python-using-cnn/notebook
