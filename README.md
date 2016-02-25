@@ -8,8 +8,8 @@ here we are listing som eiportant pages on the internt which had helped me to le
 [https://www.kaggle.com/kakauandme/digit-recognizer/tensorflow-deep-nn](https://www.kaggle.com/kakauandme/digit-recognizer/tensorflow-deep-nn)  
 
 
-3. ### ** learn _pandas_ **
-_pandas is python library mianly used for data analysis tools and manipulation and is widely efficient and used in kaggle competetions_.
+3. ### **learn _pandas_**
+>_pandas is python library mianly used for data analysis tools and manipulation and is widely efficient and used in kaggle competetions_.
 [https://bitbucket.org/hrojas/learn-pandas](https://bitbucket.org/hrojas/learn-pandas)  
 [http://pandas.pydata.org/pandas-docs/stable/tutorials.html](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)  
 [https://github.com/fonnesbeck/statistical-analysis-python-tutorial](https://github.com/fonnesbeck/statistical-analysis-python-tutorial)  
